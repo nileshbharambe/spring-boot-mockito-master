@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user1
+Build-Jdk: 17.0.5
+Implementation-Title: spring-boot-mockito
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-mockito
+Created-By: Maven Integration for Eclipse
+
